@@ -1,0 +1,2 @@
+# jscode
+starting javascript code 
